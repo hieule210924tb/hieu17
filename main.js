@@ -7,3 +7,6 @@ fetch(courseApi)
 .then(function(coureses){
     console.log(coureses);
 });
+function cong(){
+
+}
