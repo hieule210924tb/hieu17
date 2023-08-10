@@ -7,5 +7,5 @@ function myFirst() {
   }
   
   myFirst(123);
-  mySecond();
+  mySecond(456);
     
