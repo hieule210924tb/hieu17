@@ -6,6 +6,6 @@ function myFirst() {
     myDisplayer("Goodbye");
   }
   
-  myFirst();
+  myFirst(123);
   mySecond();
     
