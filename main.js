@@ -1,12 +1,11 @@
-var courseApi = 'http://localhost:3000/courses'
-fetch(courseApi)
-.then(function(response){
-    return response.json();
-
-})
-.then(function(coureses){
-    console.log(coureses);
-});
-function cong(){
-
-}
+function myFirst() {
+    myDisplayer("Hello");
+  }
+  
+  function mySecond() {
+    myDisplayer("Goodbye");
+  }
+  
+  myFirst();
+  mySecond();
+    
